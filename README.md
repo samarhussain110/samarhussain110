@@ -9,7 +9,7 @@
 * 🌱 Currently learning: HTML, CSS, JavaScript
 * 🔭 Working on: Improving my coding skills daily
 * 🎯 Goal: Become a professional software developer
-* 📫 Contact: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📫 Contact: [samarhussain799@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
