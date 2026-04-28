@@ -1,41 +1,76 @@
-# Hi there, I'm Samar Hussain 👋
+# 👋 Hi, I'm Samar Hussain
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</div>
-
-## 🚀 Full-Stack Developer
-**Passionate about building amazing digital experiences**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarhussain110&show_icons=true&theme=transparent&hide_border=true" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarhussain110&layout=compact&theme=transparent&hide_border=true" alt="langs" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarhussain110&theme=transparent" alt="streak" />
-</div>
-
-## 🛠️ Tech Stack
-<table>
-<tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/></td>
-</tr>
-</table>
-
-## 📫 Contact Me
-<div align="center">
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/samarhussain110)
-  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:samarhussain110@gmail.com)
-  [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">](https://samarhussain110.github.io)
-</div>
+🎓 Diploma Student in Advanced Software Engineering (ADSE)  
+📍 Karachi, Pakistan  
+📧 samarhussain799@gmail.com  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarhussain110&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Badge" />
-</div>
+## 💡 About Me
+
+I am a motivated and detail-oriented software engineering student currently pursuing my ADSE diploma from Aptech. I have a strong interest in web development and enjoy building practical projects that solve real-world problems.
+
+I am passionate about learning new technologies, improving my coding skills, and growing as a developer. Currently looking for internship and entry-level opportunities to gain industry experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🌐 Frontend: HTML, CSS, JavaScript  
+- ⚡ Frameworks: Angular  
+- 🖥️ Backend: ASP.NET Core MVC  
+- 🗄️ Database: Basic Database Management  
+
+---
+
+## 📂 Projects
+
+### 🌐 Portfolio Website
+Built a personal portfolio using HTML, CSS, and JavaScript to showcase my work and skills.
+
+### 📝 Online Admission Form System
+Developed using ASP.NET Core MVC  
+✔ Student registration  
+✔ Form submission system  
+
+### 💇 Salon Management System
+A web-based application to manage:
+- Appointments  
+- Customer records  
+- Salon operations  
+
+### 🛒 E-commerce Frontend
+Created a responsive UI with:
+- Product listings  
+- Add-to-cart functionality  
+
+---
+
+## 🏆 Achievements
+
+- Completed multiple coding assignments and projects  
+- Recognized for teamwork and creativity  
+- Consistently performed well in coursework  
+
+---
+
+## 🎯 Career Goal
+
+To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internships and entry-level roles to grow professionally.
+
+---
+
+## 📊 GitHub Stats
+
+![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: samarhussain799@gmail.com  
+- 📱 Phone: +92 331 8305111  
+
+---
+
+⭐ *“Always learning, always building.”*
