@@ -60,11 +60,7 @@ To gain practical industry experience while completing my diploma and contribute
 
 ---
 
-## 📊 GitHub Stats
 
-![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
 
 ## 🤝 Let's Connect
 
