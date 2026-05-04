@@ -39,10 +39,6 @@ A web-based application to manage:
 - Customer records  
 - Salon operations  
 
-### 🛒 E-commerce Frontend
-Created a responsive UI with:
-- Product listings  
-- Add-to-cart functionality  
 
 ---
 
