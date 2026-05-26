@@ -49,12 +49,11 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarhussain110/samarhussain110/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarhussain110/samarhussain110/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samarhussain110/samarhussain110/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
+## 👾 Pac-Man Mode
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+</p>
 ###
 ## 🎯 Career Goal
 
