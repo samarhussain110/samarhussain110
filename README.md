@@ -56,8 +56,6 @@ A web-based application to manage:
 </picture>
 
 ###
-
-###
 ## 🎯 Career Goal
 
 To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internships and entry-level roles to grow professionally.
