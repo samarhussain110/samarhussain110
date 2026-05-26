@@ -49,10 +49,10 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 🐉 Dragon Contribution Animation
+## 🌊 Ocean Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif" alt="ocean snake"/>
 </p>
 
 ###
