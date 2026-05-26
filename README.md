@@ -49,10 +49,11 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 🌊 Ocean Snake Animation
+## 🎮 GitHub Arcade Mode
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif" alt="ocean snake"/>
+  <img src="https://media.githubusercontent.com/media/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="0"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif" />
 </p>
 
 ###
