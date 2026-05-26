@@ -49,13 +49,11 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 🎮 GitHub Arcade Mode
+## 🐉 Dragon Contribution Animation
 
 <p align="center">
-  <img src="https://media.githubusercontent.com/media/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="0"/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
 ###
 ## 🎯 Career Goal
 
