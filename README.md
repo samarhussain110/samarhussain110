@@ -50,6 +50,12 @@ A web-based application to manage:
 
 ---
 
+## 🎮 Arcade Game
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ0eGQ5Y2F4a2JkY3V2eGFtbjR5M2tqNmV4c3B4b2JmM3B5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+</p>
+
 ## 🎯 Career Goal
 
 To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internships and entry-level roles to grow professionally.
