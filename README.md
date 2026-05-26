@@ -49,11 +49,12 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 🚀 Space Invaders
+## 🎮 Retro Arcade
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="550"/>
 </p>
+
 ## 🎯 Career Goal
 
 To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internships and entry-level roles to grow professionally.
