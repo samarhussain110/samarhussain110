@@ -49,10 +49,10 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 🎮 Retro Arcade
+## 👾 Pac-Man Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="550"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
 </p>
 
 ## 🎯 Career Goal
