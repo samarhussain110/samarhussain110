@@ -49,10 +49,10 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 💻 Hacker Mode
+## 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake game"/>
 </p>
 ## 🎯 Career Goal
 
