@@ -49,12 +49,12 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## ⚡ Neon Snake Game
+## 🎮 GitHub Arcade Mode
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://media.githubusercontent.com/media/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="0"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/ocean.gif" />
 </p>
-###
 ## 🎯 Career Goal
 
 To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internships and entry-level roles to grow professionally.
