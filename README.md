@@ -49,10 +49,10 @@ A web-based application to manage:
 - Consistently performed well in coursework  
 
 ---
-## 🐍 Contribution Snake Game
+## 🚀 Space Invaders
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake game"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="500"/>
 </p>
 ## 🎯 Career Goal
 
