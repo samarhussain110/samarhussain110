@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Samar Hussain
 
-🎓 Diploma Student in Advanced Software Engineering (ADSE)  
+🌐 **[My Portfolio](YOUR_PORTFOLIO_LINK_HERE)**
+
+🎓 Diploma Student in Advanced Software Engineering (DASE)  
 📍 Karachi, Pakistan  
-📧 samarhussain799@gmail.com  
+📧 samarhussain110@gmail.com
 
 ---
 
 ## 💡 About Me
 
-I am a motivated and detail-oriented software engineering student currently pursuing my ADSE diploma from Aptech. I have a strong interest in web development and enjoy building practical projects that solve real-world problems.
+I am a motivated and detail-oriented software engineering student currently pursuing my DAE diploma from Aptech. I have a strong interest in web development and enjoy building practical projects that solve real-world problems.
 
 I am passionate about learning new technologies, improving my coding skills, and growing as a developer. Currently looking for internship and entry-level opportunities to gain industry experience.
 
@@ -16,57 +18,65 @@ I am passionate about learning new technologies, improving my coding skills, and
 
 ## 🛠️ Tech Stack
 
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- ⚡ Frameworks: Angular  
-- 🖥️ Backend: ASP.NET Core MVC  
-- 🗄️ Database: Basic Database Management  
+- 🌐 Frontend: HTML, CSS, JavaScript
+- ⚙️ Framework: Angular, Laravel
+- 🖥️ Backend: PHP, ASP.NET Core MVC
+- 🗄️ Database: MySQL, SQL Server
 
 ---
 
-## 📂 Projects
+## 📁 Projects
 
-### 🌐 Portfolio Website
-Built a personal portfolio using HTML, CSS, and JavaScript to showcase my work and skills.
+### 🅰️ Dynamic Angular App
+
+Developed a fast-food e-commerce web application using Angular 14+.
+
+- Dynamic product management
+- Fast-food e-commerce functionality
+- Responsive user interface
 
 ### 📝 Online Admission Form System
-Developed using ASP.NET Core MVC  
-✔ Student registration  
-✔ Form submission system  
+
+Developed using ASP.NET Core MVC
+
+- ✔️ Student registration
+- ✔️ Form submission system
 
 ### 💇 Salon Management System
-A web-based application to manage:
-- Appointments  
-- Customer records  
-- Salon operations  
 
+A web-based application to manage:
+
+- Appointments
+- Customer records
+- Salon operations
 
 ---
 
 ## 🏆 Achievements
 
-- Completed multiple coding assignments and projects  
-- Recognized for teamwork and creativity  
-- Consistently performed well in coursework  
+- Completed multiple coding assignments and projects
+- Recognized for teamwork and creativity
+- Consistently performed well in coursework
 
 ---
+
 ## 🐉 Dragon Contribution Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-## 🎯 Career Goal
-
-To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internships and entry-level roles to grow professionally.
+![Dragon Contribution Animation](https://raw.githubusercontent.com/samarhussain110/samarhussain110/output/github-contribution-grid-snake.svg)
 
 ---
 
+## 🎯 Career Goal
 
+To gain practical industry experience while completing my diploma and contribute to real-world software development projects. I am actively seeking internship and entry-level roles to grow professionally.
+
+---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: samarhussain799@gmail.com  
-- 📱 Phone: +92 331 8305111  
+- 📧 Email: samarhussain110@gmail.com
+- 📱 Phone: +92 311 0606111
 
 ---
 
-⭐ *“Always learning, always building.”*
+⭐ Always learning, always building!
