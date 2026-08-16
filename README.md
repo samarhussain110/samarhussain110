@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-I am a motivated and detail-oriented software engineering student currently pursuing my DAE diploma from Aptech. I have a strong interest in web development and enjoy building practical projects that solve real-world problems.
+I am a motivated and detail-oriented software engineering student currently pursuing my ADSE diploma from Aptech. I have a strong interest in web development and enjoy building practical projects that solve real-world problems.
 
 I am passionate about learning new technologies, improving my coding skills, and growing as a developer. Currently looking for internship and entry-level opportunities to gain industry experience.
 
