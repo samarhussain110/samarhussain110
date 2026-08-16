@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samar Hussain
 
-🌐 **[My Portfolio](YOUR_PORTFOLIO_LINK_HERE)**
+🌐 **[My Portfolio](https://github.com/samarhussain110/my-portfolio.git)**
 
 🎓 Diploma Student in Advanced Software Engineering (DASE)  
 📍 Karachi, Pakistan  
