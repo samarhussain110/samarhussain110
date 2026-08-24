@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samar Hussain
 
-<p align="left"> <a href="https://samarhussain110.github.io/my-portfolio/" target="_blank"> <img src="https://img.shields.io/badge/💼%20PORTFOLIO%20%20%20→-343A40?style=for-the-badge&labelColor=343A40&color=343A40" alt="Portfolio"/> </a> </p>
+<p align="left"> <a href="http://127.0.0.1:5500/index.html" target="_blank"> <img src="https://img.shields.io/badge/💼%20PORTFOLIO%20%20%20→-343A40?style=for-the-badge&labelColor=343A40&color=343A40" alt="Portfolio"/> </a> </p>
 
 
 
