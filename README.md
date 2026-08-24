@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samar Hussain
-<a href="http://127.0.0.1:5500/index.html">
+<a href="https://github.com/samarhussain110/my-portfolio.git">
   <img src="https://img.shields.io/badge/▲_PORTFOLIO-555555?style=for-the-badge&labelColor=555555&color=555555" />
 </a>
 
