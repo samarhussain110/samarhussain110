@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Samar Hussain
-<a href="http://127.0.0.1:5500/index.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge" />
-</a>
+<p align="left"> <a href="http://127.0.0.1:5500/index.html" target="_blank"> <span style="display:inline-flex;align-items:center;gap:12px;padding:12px 24px;font-size:16px;font-weight:600;color:white;background:linear-gradient(135deg,#6C63FF,#00B4DB);border-radius:12px;text-decoration:none;box-shadow:0 4px 15px rgba(108,99,255,0.4);"> 💼 &nbsp; PORTFOLIO &nbsp; → </span> </a> </p>
 
 🎓 Diploma Student in Advanced Software Engineering (DASE)  
 📍 Karachi, Pakistan  
