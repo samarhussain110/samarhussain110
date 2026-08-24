@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samar Hussain
-<a href="https://github.com/samarhussain110/my-portfolio.git">
-  <img src="https://img.shields.io/badge/▲_PORTFOLIO-555555?style=for-the-badge&labelColor=555555&color=555555" />
+<a href="https://samarhussain110.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PORTFOLIO-555555?style=for-the-badge" />
 </a>
 
 🎓 Diploma Student in Advanced Software Engineering (DASE)  
