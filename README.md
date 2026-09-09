@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://samarhussain110.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-2E9EF7?style=for-the-badge" /></a>
+  <a href="https://github.com/samarhussain110/my-portfolio.git" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-2E9EF7?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/-Karachi%2C%20Pakistan-black?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="mailto:samarhussain799@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samar-hussain-0842ba364"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
