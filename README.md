@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/samar-hussain-0842ba364"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br/>
-## ℹ️ About Me
+ℹ️ About Me
  
 > I'm a motivated and detail-oriented software engineering student, currently pursuing my **ADSE diploma from Aptech**. I love building practical, real-world projects — from e-commerce apps to safety-focused systems — and I'm always looking to sharpen my skills and take on new challenges.
  
@@ -17,29 +17,29 @@
 - 💼 Looking for: **Internship / Entry-level Developer** roles
 - 📫 Reach me: **samarhussain799@gmail.com**
 <br/>
-## 🛠️ Tech Stack
+🛠️ Tech Stack
  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,laravel,php,dotnet,mysql,mssql,git,github,vscode" />
 </p>
 <br/>
-## 📁 Featured Projects
+📁 Featured Projects
  
 <details open>
 <summary><b>🛡️ Defenza — Women's Safety Emergency System</b></summary>
 <br/>
 A real-time safety application that helps women respond quickly and confidently during unsafe or threatening situations.
  
-**Key Features**
+Key Features
 - 🚨 One-tap SOS alert to emergency contacts
 - 📍 Real-time live location sharing
 - ☎️ Quick access to emergency helpline
-**Tech Stack**
+Tech Stack
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
  
-**[🔗 View Repository](https://github.com/samarhussain110/defenza)**
+[🔗 View Repository](https://github.com/samarhussain110/defenza)
  
 </details>
 <details>
@@ -47,15 +47,15 @@ A real-time safety application that helps women respond quickly and confidently 
 <br/>
 An e-commerce web application built using Angular 14+ with dynamic product management.
  
-**Key Features**
+Key Features
 - 🛒 Dynamic product management
 - ⚡ Fast-food e-commerce functionality
 - 📱 Responsive user interface
-**Tech Stack**
+Tech Stack
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
  
-**[🔗 View Repository](https://github.com/samarhussain110/Dynamic-Angular-app)**
+[🔗 View Repository](https://github.com/samarhussain110/Dynamic-Angular-app)
  
 </details>
 <details>
@@ -63,10 +63,10 @@ An e-commerce web application built using Angular 14+ with dynamic product manag
 <br/>
 Built with ASP.NET Core MVC for streamlined student admissions.
  
-**Key Features**
+Key Features
 - 📝 Student registration
 - 📋 Form submission system
-**Tech Stack**
+Tech Stack
 <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
  
@@ -76,30 +76,30 @@ Built with ASP.NET Core MVC for streamlined student admissions.
 <br/>
 A web-based application to manage salon operations end-to-end.
  
-**Key Features**
+Key Features
 - 📅 Appointments
 - 👤 Customer records
 - 🧾 Salon operations
-**Tech Stack**
+Tech Stack
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
  
 </details>
 <br/>
-## 🏆 Achievements
+🏆 Achievements
  
 - ✅ Completed multiple coding assignments and real-world projects
 - 🤝 Recognized for teamwork and creativity
 - 📈 Consistently performed well throughout coursework
 <br/>
-## 🎯 Career Goal
+🎯 Career Goal
  
 To gain hands-on industry experience while completing my diploma, and contribute to real-world software projects. Actively seeking internship and entry-level developer roles to grow professionally.
  
 <br/>
 
 <br/>
-## 💌 Let's Connect
+💌 Let's Connect
  
 <p align="center">
   <a href="mailto:samarhussain799@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
