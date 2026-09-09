@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Building+real-world+web+apps;Learning+React+%2B+Angular+%2B+Laravel;Currently+seeking+internships" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://samarhussain110.github.io/my-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-2E9EF7?style=for-the-badge" /></a>
+  <a href="https://github.com/samarhussain110/my-portfolio.git" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PORTFOLIO-2E9EF7?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/-Karachi%2C%20Pakistan-black?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="mailto:samarhussain799@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/samar-hussain-0842ba364"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -97,18 +97,7 @@ A web-based application to manage salon operations end-to-end.
 To gain hands-on industry experience while completing my diploma, and contribute to real-world software projects. Actively seeking internship and entry-level developer roles to grow professionally.
  
 <br/>
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarhussain110&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarhussain110&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarhussain110&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samarhussain110&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+
 <br/>
 ## 💌 Let's Connect
  
