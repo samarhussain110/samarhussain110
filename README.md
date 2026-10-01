@@ -18,7 +18,7 @@
 > I'm a motivated and detail-oriented software engineering student, currently pursuing my **ADSE diploma from Aptech**. I love building practical, real-world projects — from e-commerce apps to safety-focused systems — and I'm always looking to sharpen my skills and take on new challenges.
 
 - 🎓 Diploma Student — Advanced Software Engineering (ADSE)
-- 💼 Looking for: **Internship / Entry-level Developer** roles
+- 💼 Looking for: **Internship / Full-stack Developer** roles
 - 📫 Reach me: **samarhussain799@gmail.com**
 
 <br/>
