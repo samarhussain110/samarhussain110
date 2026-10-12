@@ -34,6 +34,29 @@
 📁 Featured Projects
 
 <details open>
+<summary><b>📚 Learnify — Adaptive Learning & Intelligent Examination Platform</b></summary>
+
+<br/>
+
+A modern, full-stack Learning Management System (LMS) and examination engine built to deliver interactive computer science education.
+
+Key Features
+- 🤖 Integrated AI Study Assistant & Chatbot
+- 🎓 20 Interactive CS Learning Modules with Split-Screen Studio
+- 📝 Non-Repeating Timed Exam Simulator & Automated Certificate Generation
+- 🎨 Modern Deep-Purple Glassmorphism UI Design
+
+Tech Stack
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Glassmorphism-2E9EF7?style=flat-square" />
+
+[🔗 View Repository](https://github.com/samar-hussain/learnify) | [🌐 Live Demo](https://samar-learnify.rf.gd)
+
+</details>
+
+<details>
 <summary><b>🛡️ Defenza — Women's Safety Emergency System</b></summary>
 
 <br/>
@@ -89,23 +112,26 @@ Tech Stack
 <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
+[🔗 View Repository](https://github.com/samarhussain110/Online-Admission-Form)
+
 </details>
 
 <details>
-<summary><b>💇 Salon Management System — Business Operations Manager</b></summary>
+<summary><b>⚙️ Administrative Control Panel & Management Dashboard</b></summary>
 
 <br/>
 
-A web-based application to manage salon operations end-to-end.
+A comprehensive administrative control system designed for managing real-time platform operations, user access roles, and system configurations.
 
 Key Features
-- 📅 Appointments
-- 👤 Customer records
-- 🧾 Salon operations
+- 🔐 Secure Role-Based Access Control (RBAC) & PDO Session Management
+- 📊 Real-time dynamic analytics and user data management
+- 🛠️ Content CRUD operations & systemic dynamic controls
 
 Tech Stack
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </details>
 
