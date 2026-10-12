@@ -34,7 +34,7 @@
 📁 Featured Projects
 
 <details open>
-<summary><b>📚 Learnify — Adaptive Learning & Intelligent Examination Platform</b></summary>
+<summary><b>📚 Learnify LMS — Adaptive Learning & Intelligent Examination Platform</b></summary>
 
 <br/>
 
@@ -52,7 +52,28 @@ Tech Stack
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-Glassmorphism-2E9EF7?style=flat-square" />
 
-[🔗 View Repository](https://github.com/samar-hussain/learnify) | [🌐 Live Demo](https://samar-learnify.rf.gd)
+[🔗 View Repository](https://github.com/samarhussain110/learnify-lms) | [🌐 Live Demo](https://samar-learnify.rf.gd)
+
+</details>
+
+<details>
+<summary><b>⚙️ LIFE Admin Dashboard — Operational Control & Management Platform</b></summary>
+
+<br/>
+
+A robust administrative management dashboard designed for real-time web application operations, role-based user authorization, and dynamic platform control.
+
+Key Features
+- 🔐 Secure Role-Based Access Control (RBAC) & PDO Session Management
+- 📊 Real-time dynamic analytics and user data management
+- 🛠️ Content CRUD operations & system configuration controls
+
+Tech Stack
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+[🔗 View Repository](https://github.com/samarhussain110/life-admin-dashboard)
 
 </details>
 
@@ -113,25 +134,6 @@ Tech Stack
 <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 [🔗 View Repository](https://github.com/samarhussain110/Online-Admission-Form)
-
-</details>
-
-<details>
-<summary><b>⚙️ Administrative Control Panel & Management Dashboard</b></summary>
-
-<br/>
-
-A comprehensive administrative control system designed for managing real-time platform operations, user access roles, and system configurations.
-
-Key Features
-- 🔐 Secure Role-Based Access Control (RBAC) & PDO Session Management
-- 📊 Real-time dynamic analytics and user data management
-- 🛠️ Content CRUD operations & systemic dynamic controls
-
-Tech Stack
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 </details>
 
