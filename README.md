@@ -52,7 +52,7 @@ Tech Stack
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-Glassmorphism-2E9EF7?style=flat-square" />
 
-[🔗 View Repository](https://github.com/samarhussain110/learnify-lms) | [🌐 Live Demo](https://samar-learnify.rf.gd)
+[🔗 View Repository](https://github.com/samarhussain110/learnify-lms) |
 
 </details>
 
